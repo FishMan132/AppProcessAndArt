@@ -3,3 +3,6 @@
 
 app_process 源码路径：
 platform/frameworks/base/cmds/app_process/app_main.cpp
+
+修改源码版本：
+android-7.1.2_r8
